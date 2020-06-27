@@ -10,6 +10,7 @@
     </style>
     <script type="text/javascript">
         window.onload = function() {
+            var list = new list
             var add = document.getElementById("add")
             var tb = document.getElementById("tb")
             add.onclick = function() {
