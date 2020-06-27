@@ -52,7 +52,6 @@
                 <td>${l.get(2)}</td>
                 <td>${l.get(3)}</td>
                 <td>${l.get(4)}</td>
-                <td>${l.get(5)}</td>
             </tr>
         </c:forEach>
     </table>
